@@ -1,0 +1,7 @@
+.vscode
+build64
+build32
+test/build64
+test/build32
+test/program64.exe
+test/program32.exe
